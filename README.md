@@ -4,6 +4,10 @@ Curso de PL/SQL para aprender todo sobre este lenguaje de programación de oracl
 
 Utilizamos Oracle XE v21.3.0
 
+Lista de reproducción: https://www.youtube.com/playlist?list=PLaxZkGlLWHGUvE9jGdlGt1MBEUWiIIrxP
+
+Calendario de publicaciones: https://eventos.discoduroderoer.es/#/events
+
 #### Temario
 
 0. [Preparacion entorno](https://youtu.be/YHh16KbBulo)
@@ -14,17 +18,24 @@ Utilizamos Oracle XE v21.3.0
 5. [Estructura IF ELSIF ELSE](https://youtu.be/5_EjXsXL_fo)
 6. [Operadores logicos y relacionales](https://youtu.be/-731ihy0Uqw)
 7. [Estructura CASE](https://youtu.be/fn6C8XF7UeY)
-8. [WHILE FOR LOOP]()
-9. [Varray]()
-10. [SELECT INTO]()
-11. [Type]()
-12. [Rowtype]()
-13. [Exceptions]()
-14. [Raise exceptions]()
-15. [Procedimientos]()
-16. [Funciones]()
-17. [Parametros de salida]()
-18. [Cursores]()
-19. [Cursores parametrizados]()
-20. [Triggers]()
-21. [Packages]()
+8. [WHILE FOR LOOP](https://youtu.be/WgpM06NF5Hw)
+9. [Varray](https://youtu.be/_sfIUcsUolc)
+10. [SELECT INTO](https://youtu.be/X-XoLDE1V_8)
+11. [Type](https://youtu.be/PrUrGFHN24k)
+12. [Rowtype](https://youtu.be/695hz8AbQYc)
+13. [Exceptions](https://youtu.be/9hFf7iF7uNk)
+14. [Raise exceptions](https://youtu.be/Z6Fk11KzJws)
+15. [RAISE_APPLICATION_ERROR](https://youtu.be/YKG65jAfN5o)
+16. [Procedimientos](https://youtu.be/Dh0i29G3sy8)
+17. [Funciones](https://youtu.be/4yzjnrtPV3s)
+18. [Parametros de entrada y salida](https://youtu.be/jEbjFlKzCNw)
+19. [Packages]()
+20. [Cursores]()
+21. [Cursores parametrizados]()
+22. [Triggers]()
+
+#### Ejercicios
+
+¿Te has quedado con ganas de practicar? Prueba con los ejercicios que tenemos en el canal
+
+https://www.youtube.com/playlist?list=PLaxZkGlLWHGXnIaWqQWuB0G7Ug8LEfvtb
