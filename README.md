@@ -29,10 +29,12 @@ Calendario de publicaciones: https://eventos.discoduroderoer.es/#/events
 16. [Procedimientos](https://youtu.be/Dh0i29G3sy8)
 17. [Funciones](https://youtu.be/4yzjnrtPV3s)
 18. [Parametros de entrada y salida](https://youtu.be/jEbjFlKzCNw)
-19. [Packages]()
-20. [Cursores]()
-21. [Cursores parametrizados]()
-22. [Triggers]()
+19. [Packages](https://youtu.be/QFhkR3y9xTE)
+20. [Cursores](https://youtu.be/QS1d1WuW188)
+21. [Cursores parametrizados](https://youtu.be/XCEmj8yGrCM)
+22. [Triggers](https://youtu.be/SatgrKT99j0)
+
+Video completo: https://youtu.be/1jHsXc5DWPM
 
 #### Ejercicios
 
