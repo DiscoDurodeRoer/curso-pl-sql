@@ -34,6 +34,8 @@ Calendario de publicaciones: https://eventos.discoduroderoer.es/#/events
 21. [Cursores parametrizados](https://youtu.be/XCEmj8yGrCM)
 22. [Triggers](https://youtu.be/SatgrKT99j0)
 
+Video completo: https://youtu.be/FK2Plmsnfc0
+
 #### Ejercicios
 
 ¿Te has quedado con ganas de practicar? Prueba con los ejercicios que tenemos en el canal
